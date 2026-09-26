@@ -14,10 +14,10 @@ The project includes several image processing operations, such as:
 
 Libraries Used
 
-- Python
-- OpenCV (cv2)
-- NumPy (numpy)
-- Matplotlib (matplotlib)
+Python: 3.10.20 
+OpenCV: 5.0.0
+Numpy: 2.2.6
+Matplotlib: 3.10.9
 
 Technologies
 
